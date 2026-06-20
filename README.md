@@ -1,2 +1,2 @@
 "# Fundamentos" 
-"Creado por: Christopher Villagomz" 
+"Creado por: Christopher Villagomez" 
